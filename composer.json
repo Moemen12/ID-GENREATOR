@@ -1,6 +1,6 @@
 
 {
-    "name": "saade-package/id-generator",
+    "name": "saade-package/generatorID",
     "type": "library",
     "description": "A package to generate unique ID",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
          "files": [
-            "generator.php"
+            "generatorID.php"
         ]
     }
 }
