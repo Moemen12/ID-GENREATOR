@@ -1,0 +1,6 @@
+{
+    "name": "moemensaade/Id-generator",
+    "autoload": {
+        "files": ["src/generator.php"]
+    }
+}
