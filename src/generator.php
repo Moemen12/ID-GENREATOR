@@ -1,5 +1,8 @@
 <?php
 
+
+namespace idGenerator;
+
  function generateUniqueId($table, $column) {
             // Check if the required arguments are provided
             if (empty($table) || empty($column)) {
