@@ -1,7 +1,7 @@
 <?php
 
 
-namespace idGenerator;
+namespace SaadePackage\IDGenerator;
 
  function generateUniqueId($table, $column) {
             // Check if the required arguments are provided
