@@ -1,4 +1,5 @@
-# ID-GENREATOR 😃:
+# ID-GENREATOR 😃
+
 it generates an private id for database
 
 This code is using in laravel application to generate an unique id and also it will check if the generated id <br>
@@ -6,16 +7,16 @@ This code is using in laravel application to generate an unique id and also it w
 If it is the same in database it will generate a new . 😉
 
 <p dir="auto">
-<a href="https://reactjs.org/" rel="nofollow">
+<a href="https://laravel.com/docs/10.x" rel="nofollow">
 <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'/>
 </a>
 
 
-<a href="https://reactjs.org/" rel="nofollow">
+<a href="https://www.php.net/" rel="nofollow">
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
 </a>
 
-<a href="https://reactjs.org/" rel="nofollow">
+<a href="https://www.mysql.com/" rel="nofollow">
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
 </a>
 
@@ -23,9 +24,7 @@ If it is the same in database it will generate a new . 😉
     
 
 ```
-    
-    composer require saade-package/generate-unique-id
-
+composer require saade-package/generate-unique-id
 ```
 
 
