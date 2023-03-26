@@ -19,9 +19,14 @@ is the same in database it will generate a new . 😉
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
 </a>
 
+# Installing :
+    
 
+```
+    
+    composer require saade-package/generate-unique-id
 
-
+```
 
 
 
@@ -32,6 +37,8 @@ is the same in database it will generate a new . 😉
 <h3>Now how to use it ?</h3>
 
 For example if you created an id-generator column in post table, you can make an private id to the post like this :
+
+
 
 ```php
     public function store(Request $request){
@@ -47,6 +54,8 @@ For example if you created an id-generator column in post table, you can make an
 | ------ | ----------- |
 | table name| (string & require) it is the table name where You want to insert the data in it. |
 | column name| (string & require) it is the table column where You want to insert the data in it. |
+
+
  
 The generate function generateUniqueId function takes 2 arguments , the first argument is the Table name and <br>
 
