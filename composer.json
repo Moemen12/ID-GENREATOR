@@ -1,5 +1,5 @@
 {
-    "name": "moemensaade/Id-generator",
+    "name": "saadeIdGenerator/Id-generator",
     "autoload": {
         "files": ["src/generator.php"]
     }
