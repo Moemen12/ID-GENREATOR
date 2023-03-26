@@ -1,6 +1,6 @@
 
 {
-    "name": "saade-package/generateUniqueId",
+    "name": "saade-package/generate-unique-id",
     "type": "library",
     "description": "A package to generate unique ID",
     "license": "MIT",
