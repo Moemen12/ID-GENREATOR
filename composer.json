@@ -1,14 +1,11 @@
 {
-    "name": "saadeIdGenerator/Id-generator",
-    "description": "Generates different id for laravel project",
+    "name": "saade-package/id-generator",
+    "description": "A package to generate unique IDs",
     "version": "1.0.0",
     "license": "MIT",
-    "require": {
-        "php": "^7.4"
-    },
     "autoload": {
         "psr-4": {
-            "generator.php\\": "src/"
+            "SaadePackage\\IDGenerator\\": "src/"
         }
     }
 }
