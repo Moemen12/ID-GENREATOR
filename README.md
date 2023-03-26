@@ -5,6 +5,30 @@ This code is using in laravel application to generate an unique id and also it w
 
 is the same in database it will generate a new . 😉
 
+<p dir="auto">
+<a href="https://reactjs.org/" rel="nofollow">
+<img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'/>
+</a>
+
+
+<a href="https://reactjs.org/" rel="nofollow">
+<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
+</a>
+
+<a href="https://reactjs.org/" rel="nofollow">
+<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+</a>
+
+
+
+
+
+
+
+</p>
+
+
+
 <h3>Now how to use it ?</h3>
 
 For example if you created an id-generator column in post table, you can make an private id to the post like this :
