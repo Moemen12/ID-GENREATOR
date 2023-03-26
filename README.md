@@ -60,6 +60,6 @@ The generate function generateUniqueId function takes 2 arguments , the first ar
 
 the second argument is the column name where you want to insert the uniqueId .
 
-Here this code will generate an id from 25 characters and inserts it database .
+Here this code will generate an id from 25 characters and inserts it in database .
 
 
